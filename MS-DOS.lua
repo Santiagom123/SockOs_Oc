@@ -13,9 +13,9 @@ M.vars = {}
 M.labels = {}
 M.cotasks = {}
 M.stack = {}
-M.windows = {}   -- Ventanas
-M.buttons = {}   -- Botones
-M.icons = {}     -- Iconos de escritorio
+M.windows = {}  
+M.buttons = {} 
+M.icons = {}    
 
 -- Colores predefinidos
 M.colorNames = {
